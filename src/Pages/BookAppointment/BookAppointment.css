@@ -1,0 +1,18 @@
+.book-appointment {
+  background-color: var(--color-dark);
+  border-radius: 25px;
+  padding: 1rem;
+  margin: 10px;
+}
+.form-group {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  /* width: 50%; */
+
+  margin: 1rem;
+}
+.form-group input {
+  padding: 0.5rem;
+}

@@ -1,0 +1,15 @@
+:root {
+  --color-dark: #27292a;
+  --color-light: #fff;
+  --color-primary: #ec6090;
+  --color-darkest: #1f2122;
+}
+body {
+  background-color: var(--color-darkest);
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}

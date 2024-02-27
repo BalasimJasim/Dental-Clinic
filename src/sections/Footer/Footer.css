@@ -1,0 +1,12 @@
+footer p {
+  text-align: center;
+  padding: 10rem;
+  color: var(--color-light);
+}
+footer p a {
+  color: var(--color-light);
+  transition: all 0.3s;
+}
+footer p a:hover {
+  color: var(--color-primary);
+}

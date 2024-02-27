@@ -1,0 +1,21 @@
+.support {
+  background-color: var(--color-darkest);
+  color: var(--color-light);
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  gap: 2rem;
+  padding: 1rem;
+  margin: 2rem;
+}
+
+h2,
+h3 {
+  color: var(--color-primary);
+}
+ul {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  gap: 2rem;
+}

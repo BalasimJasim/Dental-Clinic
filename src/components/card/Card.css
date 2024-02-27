@@ -1,0 +1,33 @@
+.service-card-wrapper {
+  background-color: var(--color-dark);
+  border-radius: 25px;
+  padding: 1rem;
+  margin: 10px;
+}
+.service-card-wrapper h4 {
+  font-size: 20px;
+}
+.service-items {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-direction: column;
+  /* height: 50%; */
+}
+.service-item {
+  flex: 1 25%;
+}
+.service-item-image {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 25px;
+  margin-bottom: 0.5rem;
+}
+.service-item-content {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* gap: 1rem; */
+}

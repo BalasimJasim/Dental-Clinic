@@ -1,0 +1,4 @@
+.team-member-cards {
+  display: flex;
+  flex-wrap: wrap;
+}
